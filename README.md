@@ -16,40 +16,32 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
+<!---
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+-->
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Punkays/Cursos-de-Zabbix">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Cursos Zabbix</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+    Um compilado de cursos relacionados a Zabbix, linguagens de programação, sistemas operacionais e IOT.
 </p>
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS
+Sera comentado, visto que se trata de listas datadas
+
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -75,34 +67,25 @@
   </ol>
 </details>
 
-
+ -->
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
+## Sobre o projeto
+<!-- 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+-->
+Existe muito conteudo na internet relacionado a Zabbix. Instação do servidor em diversas distribuições linux, instalação de agente, criaçao de itens e templates customizados, monitoramento por proxy, scripts para automoção, customizações, otimização de banco, e por ai vai...
+Mas para cada uma dessas coisas, você precisa gastar algumas horas na internet, buscando informação em mais de um local, consolidando a informação encontrada para ai sim, iniciar um lab.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+A intenção aqui, é centralizar todos esses dados que encontro/valido e sei que, assim como me ajudaram, podem ser de grande importancia para outros analistas, ou profissionais que estão iniciando na area da tecnologia.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+### Documentação Oficial
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+Todo curso aqui listado, assim como os proprios tutoriais, links e etc... são validados e comparados com informações da propria documentação oficial da Zabbix cia.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+* [Zabbix](https://www.zabbix.com/br)
 
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
-
-
-<!-- GETTING STARTED -->
+<!-- GETTING STARTED 
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -134,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -143,17 +126,18 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
+<!-- ROADMAP
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 
-
-<!-- CONTRIBUTING -->
+-->
+<!-- CONTRIBUTING TEXTO ORIGINAL-->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+As contribuições são o que torna a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer serão 88muito apreciadas88.
+
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -171,11 +155,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Michael Fortes - [@mikes_script
+](https://twitter.com/mikes_script) - mromeiro.f@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Punkays/Cursos-de-Zabbix](https://github.com/Punkays/Cursos-de-Zabbix)
 
 
 
@@ -199,16 +184,16 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Punkays/Cursos-de-Zabbix.svg?style=for-the-badge
+[contributors-url]: https://github.com/Punkays/Cursos-de-Zabbix/graphs/contributors
+[forks-shield]: https://img.shields.io/github/Punkays/Cursos-de-Zabbix.svg?style=for-the-badge
+[forks-url]: https://github.com/Punkays/Cursos-de-Zabbix/network/members
+[stars-shield]: https://img.shields.io/github/stars/Punkays/Cursos-de-Zabbix.svg?style=for-the-badge
+[stars-url]: https://github.com/Punkays/Cursos-de-Zabbix/stargazers
+[issues-shield]: https://img.shields.io/github/Punkays/Cursos-de-Zabbix.svg?style=for-the-badge
+[issues-url]: https://github.com/Punkays/Cursos-de-Zabbix/issues
+[license-shield]: https://img.shields.io/github/license/Punkays/Cursos-de-Zabbix.svg?style=for-the-badge
+[license-url]: https://github.com/Punkays/Cursos-de-Zabbix/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/mikefortes/
 [product-screenshot]: images/screenshot.png
