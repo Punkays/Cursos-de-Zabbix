@@ -74,14 +74,12 @@ Sera comentado, visto que se trata de listas datadas
 <!-- 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
-Existe muito conteudo na internet relacionado a Zabbix. Instação do servidor em diversas distribuições linux, instalação de agente, criaçao de itens e templates customizados, monitoramento por proxy, scripts para automoção, customizações, otimização de banco, e por ai vai...
-Mas para cada uma dessas coisas, você precisa gastar algumas horas na internet, buscando informação em mais de um local, consolidando a informação encontrada para ai sim, iniciar um lab.
+Existe muito conteúdo na internet relacionado a Zabbix. Instalação do servidor em diversas distribuições linux, instalação de agente, criação de itens e templates customizados, monitoramento por proxy, scripts para automação, customizações, otimização de banco, e por ai vai... Mas para cada uma dessas coisas, você precisa gastar algumas horas na internet, buscando informação em mais de um local, consolidando a informação encontrada para ai sim, iniciar um lab.<br>
+A intenção aqui, é centralizar todos esses dados que encontro/valido e sei que, assim como me ajudaram, podem ser de grande importância para outros analistas, ou profissionais que estão iniciando na área da tecnologia.
 
-A intenção aqui, é centralizar todos esses dados que encontro/valido e sei que, assim como me ajudaram, podem ser de grande importancia para outros analistas, ou profissionais que estão iniciando na area da tecnologia.
+## Documentação Oficial
 
-### Documentação Oficial
-
-Todo curso aqui listado, assim como os proprios tutoriais, links e etc... são validados e comparados com informações da propria documentação oficial da Zabbix cia.
+Todo curso aqui listado, assim como os próprios tutoriais, links e etc... são validados e comparados com informações da própria documentação oficial da Zabbix cia.
 
 * [Zabbix](https://www.zabbix.com/br)
 
