@@ -1,11 +1,17 @@
-# Lista de Cursos Gratuitos em Alemão
+# Lista de Cursos Gratuitos em Portugues
 
-Lista criada em 22-04-2019.
+Lista criada em 
 
-Entre no grupo do Telegram para receber avisos sobre as atualizações das listas.  
-No grupo serão compartilhados cupons de desconto disponibilizados por alguns instrutores da Udemy.  
-Entre no grupo agora mesmo: [Grupo no Telegram](http://bit.ly/2UvKbVX)
+Cursos reunidos por [Michael Fortes](https://www.linkedin.com/in/mikefortes/) para ajudar profissionais e/ou estudantes que desejam se aprofundar no tema de monitoramento utilizando Zabbix e todo seu potencial.
+
+ **Bons estudos**
 
 
-## TEMA
+## Zabbix
+ - [ 1 - Curso](link)
+
+ ## Infraestrutura
+ - [ 1 - Curso](link)
+
+ ## Linguagens de Programação
  - [ 1 - Curso](link)
