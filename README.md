@@ -84,12 +84,15 @@ Todo curso aqui listado, assim como os próprios tutoriais, links e etc... são 
 
 * [Zabbix](https://www.zabbix.com/br)
 
-<!-- GETTING STARTED 
-## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+## Bora comerçar !
 
+No link abaixo você acessa as listas ja criadas por data. 
+Lembrando que o curso listado ali, é gratuito, ou pelo menos estava na data da criação, sendo assim, o criador do mesmo pode ter alterado seu valor depois de algum tempo. Sendo assim, tente sempre checar a lista mais atualizada.
+
+* [Index - Listagens](https://github.com/Punkays/Cursos-de-Zabbix/tree/master/Listas/README.md)
+
+<!-- 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -156,7 +159,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contato
 
-Michael Fortes - [@mikes_script
+[Michael Fortes](https://www.linkedin.com/in/mikefortes/) - [@mikes_script
 ](https://twitter.com/mikes_script) - mromeiro.f@gmail.com
 
 Project Link: [https://github.com/Punkays/Cursos-de-Zabbix](https://github.com/Punkays/Cursos-de-Zabbix)
